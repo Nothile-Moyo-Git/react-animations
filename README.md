@@ -1,4 +1,4 @@
-# Animations App using React, React-spring, SCSS, TypeScript
+# Animations App using React, React-spring, SCSS, TypeScript & Firebase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
